@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Design</string>
+    <string name="TextView">Hello World!</string>
+    <string name="text_button">Button</string>
 </resources>
