@@ -3,6 +3,5 @@
     <string name="app_name">Design</string>
     <string name="TextView" translatable="false">Привет Андроид!</string>
     <string name="text_button" translatable="false">НАЖМИ МЕНЯ</string>
-    <string name="TextView" translatable="false">Привет мир</string>
-    <string name="text_button" translatable="false">это кнопка</string>
+    
 </resources>
